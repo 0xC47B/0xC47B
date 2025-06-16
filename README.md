@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I engage in research as a personal hobby, particularly in Cybersecurity and AI.</p>
+<p align="left">Research as a personal hobby.</p>
 
 ###
 
