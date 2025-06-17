@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Research as a personal hobby.</p>
+<p align="left">Research as a personal hobby</p>
 
 ###
 
